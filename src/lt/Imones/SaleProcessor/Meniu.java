@@ -9,7 +9,7 @@ public class Meniu {
 
      public void Meniu() {
        System.out.println(
-               "Pasirinkite kąąąąąąąąą:\n" +
+               "Pasirinkite kąąąąą:\n" +
                        "1.Pajamų įvedimas\n" +
                        "2.Išlaidų įvedimas\n" +
                        "3.Įvestų duomenų ataskaitos\n" +
